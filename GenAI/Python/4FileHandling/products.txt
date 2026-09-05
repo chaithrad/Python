@@ -1,0 +1,3 @@
+hair drier | 2000
+charger | 500
+laptop | 50000
