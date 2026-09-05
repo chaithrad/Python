@@ -1,0 +1,7 @@
+hair drier | 2000
+charger | 500
+Phone |10000
+laptop | 50000
+TV | 50000
+
+
