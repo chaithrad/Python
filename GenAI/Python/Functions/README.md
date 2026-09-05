@@ -1,7 +1,3 @@
-Iam sorry that Iam not sure why few task code file is 
-empty even then Ihave added them correctly to the folder.
-And I have not used any AI to generate the code.
-
 This assignment has task1,2,3,4,5,6,and 7 in the task list as follows:
 Task1: Basic function : price after discount
        use the Task1.py for this Task execution
