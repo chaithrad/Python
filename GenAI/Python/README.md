@@ -11,10 +11,19 @@ Basics of python:
 5. Import Create module sand Packages
 6. Exception Handling
 
-  Object Oriented Programming 
-  ---------------------------
+Object Oriented Programming 
+---------------------------
 7. OOPs
 
 Streamlit
 -----------
-8. 
+8. Apps building using Streamlit
+
+**Libraries**
+**----------------**
+9. Numpy
+10. Pandas
+11. Matplotlib
+12. Seaborn
+
+
