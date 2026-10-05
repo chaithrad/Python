@@ -19,8 +19,8 @@ Streamlit
 -----------
 8. Apps building using Streamlit
 
-**Libraries**
-**----------------**
+Libraries:
+-----------------
 9. Numpy
 10. Pandas
 11. Matplotlib
