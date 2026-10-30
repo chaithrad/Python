@@ -8,7 +8,7 @@ Task6: Categorical plot
 Task7: Regression plot
 Task8: Multiplot and figure level
 here used the juypter note book - SeabornLib.ipynb
-Dataset used is : StudentPerformance.csv
+Dataset used is : StudentPerformance.csv https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
      
 About Dataset:
 ==============
